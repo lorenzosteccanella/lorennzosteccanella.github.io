@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome
+
+I am a Ph.D. student in the area of Reinforcement Learning at UPF. My main interests are in the area of Machine Learning and in Machine Learning applayd to Robotics to handle complex task and long term autonomy.
+
+I am actually based in Barcelona where I just recently joined the artificial intelligence and machine learning lab at UPF for doing my Ph.D..
+
+Before moving to Barcelona I have been working as research assistent in two different labs:
+
+- Blue Brain Project EPFL with the goal to develop Deep Neural Network for generative vision problems.
+
+- University of Verona Intcatch Project, to develop Deep Learning systems for vision and Multy agent planning frameworks.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/lorenzosteccanella/lorennzosteccanella.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
