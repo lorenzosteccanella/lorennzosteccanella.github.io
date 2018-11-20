@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a Ph.D. student in the area of Reinforcement Learning at UPF. My main interests are in the area of Machine Learning and in Machine Learning applied to Robotics to handle complex tasks and long term autonomy.
+I am a Ph.D. student in the area of Reinforcement Learning at UPF. My main interests are in the area of Machine Learning and Robotics to handle complex tasks and long term autonomy.
 
 I am actually based in Barcelona where I recently joined the artificial intelligence and machine learning lab at UPF for doing my Ph.D..
 
